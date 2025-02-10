@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 500 500">
+  <!-- Background -->
+  <rect width="500" height="500" fill="#f3f4f6" />
+
+  <!-- Diagonal lines -->
+  <line x1="0" y1="0" x2="500" y2="500" stroke="#00000025" stroke-width="10" />
+  <line x1="0" y1="500" x2="500" y2="0" stroke="#00000025" stroke-width="10" />
+
+  <!-- Circle -->
+  <circle cx="250" cy="250" r="125" fill="#3b82f6" opacity="0.1" />
+
+  <!-- Text -->
+  <text x="50%" y="50%" fill="#374151" font-size="60" text-anchor="middle" dy=".3em"
+    font-family="Arial, sans-serif">
+    Placeholder
+  </text>
+</svg>
