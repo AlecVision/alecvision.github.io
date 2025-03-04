@@ -1,1 +1,0 @@
-import{j as c,c as a}from"./utils.BhOZ99Vo.js";const s=e=>c.jsx("section",{id:e.id,className:a(e.variant==="secondary"?"bg-surface-firm":"bg-surface-soft","flex flex-col place-items-center gap-y-6 px-6 py-18 lg:px-8"),children:e.children});export{s as H};

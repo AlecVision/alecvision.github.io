@@ -1,0 +1,1 @@
+import{j as s,c as e}from"./utils.Bdz4iy7H.js";const a=a=>s.jsx("section",{id:a.id,className:e("secondary"===a.variant?"bg-surface-firm":"bg-surface-soft","flex flex-col place-items-center gap-y-6 px-6 py-18 lg:px-8"),children:a.children});export{a as H};

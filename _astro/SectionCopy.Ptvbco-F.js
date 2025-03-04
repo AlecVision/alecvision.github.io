@@ -1,1 +1,0 @@
-import{j as l,c as t}from"./utils.BhOZ99Vo.js";function a(e){return l.jsxs("div",{className:t("flex flex-col","gap-y-6","lg:text-center","max-w-full","md:w-2xl","w-xl","pb-8"),children:[l.jsx("h2",{className:"text-surface-hard text-4xl font-bold",children:e.heading}),e.children&&l.jsx("p",{className:"text-line-firm text-base",children:e.children})]})}export{a as S};
